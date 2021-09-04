@@ -2,6 +2,10 @@
 
 A tool to automate cookie production in Cookie Clicker.
 
+## How it works
+
+This tool uses PyAutoGui and in-game images to identify the coordinates to be manipulated.
+
 ## Note
 
 This tool is not so stable.
