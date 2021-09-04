@@ -64,7 +64,7 @@ def click_cookie():
     while True:
         timer += 1
 
-        pyautogui.click(x=mc_x, y=mc_y, clicks=100, interval=0.02)
+        pyautogui.click(x=mc_x, y=mc_y, clicks=100, interval=0.015)
 
         print(timer)
 
